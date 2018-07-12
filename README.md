@@ -113,4 +113,5 @@ List of potential underlying protocols that can be used for an implementation:
 - Real-time data visualization (where timing is critical)
 - Various HTML5 multiplayer games (e.g. http://iogames.space/)
 - Facebook Instant Games
+- [Exokit browser](https://github.com/webmixedreality/exokit)
 - *Please PR your case*
